@@ -37,11 +37,11 @@ body {
 
 .report-btn {
     color: #FFFFFF;
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
 }
 
 .report-btn:hover {
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     color: #FFFFFF;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 .form-control:focus {
-    border-color: #1dafb4;
+    border-color:  rgba(6, 154, 212, 0.918);
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(229, 116, 36, 0.25)
 }
@@ -68,11 +68,11 @@ body {
 
 .modal-title {
     font-family: var(--primaryfont);
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
 }
 
 .report-modal input {
-    border: 1px solid #1dafb4;
+    border: 1px solid  rgba(6, 154, 212, 0.918);
 }
 
 .btn {
@@ -97,7 +97,7 @@ body {
 /* Handle */
 
  ::-webkit-scrollbar-thumb {
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
     /* border-radius: 10px; */
 }
 
@@ -105,7 +105,7 @@ body {
 /* Handle on hover */
 
  ::-webkit-scrollbar-thumb:hover {
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
 }
 
 .body-wrap {
@@ -113,7 +113,7 @@ body {
 }
 
 a {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
 }
 
 p {
@@ -134,7 +134,7 @@ Topbar Start
     display: flex;
     width: 100%;
     height: 42px;
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     box-shadow: 0px 4px 52px -10px rgba(229, 116, 36, 0.75);
 }
 
@@ -238,7 +238,7 @@ header .nav-item {
     padding: 15px;
     flex-direction: column;
     align-items: flex-start;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
 }
 
 header .dropdown-item {
@@ -253,12 +253,12 @@ header .dropdown-item {
 
 header .dropdown-item:hover {
     color: #FFF;
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     font-weight: 600;
 }
 
 .text-primary {
-    color: #1dafb4 !important;
+    color:  rgba(6, 154, 212, 0.918) !important;
 }
 
 .hero-text .h1 {
@@ -273,7 +273,7 @@ header .dropdown-item:hover {
 }
 
 .select-head {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 16px;
     font-family: var(--capsfont);
     font-style: normal;
@@ -301,7 +301,7 @@ header .dropdown-item:hover {
 .test-active {
     color: #FFF !important;
     border-radius: 37px;
-    background-color: #1dafb4 !important;
+    background-color:  rgba(6, 154, 212, 0.918) !important;
     /* background: linear-gradient(to bottom right, #F8AE7B 0%, #E76C15 50%) bottom right / 50% 50% no-repeat, linear-gradient(to bottom left, #F8AE7B 0%, #E76C15 50%) bottom left / 50% 50% no-repeat, linear-gradient(to top left, #F8AE7B 0%, #E76C15 50%) top left / 50% 50% no-repeat, linear-gradient(to top right, #F8AE7B 0%, #E76C15 50%) top right / 50% 50% no-repeat !important; */
     /* Shdaow 1 */
     box-shadow: 0px 4px 15px 0px rgba(229, 116, 36, 0.25);
@@ -360,7 +360,7 @@ header .dropdown-item:hover {
 
 .test-types:hover {
     /* background: linear-gradient(to bottom right, #F8AE7B 0%, #E76C15 50%) bottom right / 50% 50% no-repeat, linear-gradient(to bottom left, #F8AE7B 0%, #E76C15 50%) bottom left / 50% 50% no-repeat, linear-gradient(to top left, #F8AE7B 0%, #E76C15 50%) top left / 50% 50% no-repeat, linear-gradient(to top right, #F8AE7B 0%, #E76C15 50%) top right / 50% 50% no-repeat; */
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     /* border: 0px; */
     color: #FFF;
     cursor: pointer;
@@ -406,7 +406,7 @@ header .dropdown-item:hover {
     border-radius: 29.39px;
     background: #FFC59C;
     box-shadow: 0px 2.50130033493042px 23.762351989746094px -6.253251075744629px rgba(229, 116, 36, 0.30);
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 13.448px;
     font-family: var(--secondaryfont);
     font-style: normal;
@@ -584,7 +584,7 @@ header .dropdown-item:hover {
     gap: 8px;
     flex-shrink: 0;
     border-radius: 47px;
-    background: linear-gradient(143deg, #1dafb4 0%, #7ee5ff 100%);
+    background: linear-gradient(143deg,  rgba(6, 154, 212, 0.918) 0%, #7ee5ff 100%);
     box-shadow: 0px 4px 38px -10px rgba(229, 116, 36, 0.45);
     justify-content: center;
 }
@@ -599,7 +599,7 @@ header .dropdown-item:hover {
     gap: 8px;
     flex-shrink: 0;
     border-radius: 47px;
-    background: linear-gradient(143deg, #1dafb4 0%, #7ee5ff 100%);
+    background: linear-gradient(143deg,  rgba(6, 154, 212, 0.918) 0%, #7ee5ff 100%);
     box-shadow: 0px 4px 38px -10px rgba(176, 211, 18, 0.45);
     justify-content: center;
 }
@@ -682,13 +682,13 @@ header .dropdown-item:hover {
     gap: 15px;
     border-radius: 30px;
     background: #FFF;
-    border: #1dafb4 solid 2px;
+    border:  rgba(6, 154, 212, 0.918) solid 2px;
     /* Shdaow 1 */
     box-shadow: 0px 4px 15px 0px rgba(229, 116, 36, 0.25);
 }
 
 .generated-report-section .possible-diseases-card .card-title {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 18px;
     font-family: var(--primaryfont);
     font-style: normal;
@@ -711,7 +711,7 @@ header .dropdown-item:hover {
 }
 
 .generated-report-section .possible-diseases-card .possible-diseases-wrap .disease-section-headline {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 14px;
     font-family: var(--secondaryfont);
     font-style: normal;
@@ -742,7 +742,7 @@ header .dropdown-item:hover {
     display: flex;
     text-align: end;
     margin-right: 0px;
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 12px;
     font-family: var(--secondaryfont);
     font-style: normal;
@@ -752,7 +752,7 @@ header .dropdown-item:hover {
 
 .disease-progress {
     border-radius: 47px;
-    background: linear-gradient(143deg, #1dafb4 0%, #7ee5ff 100%) !important;
+    background: linear-gradient(143deg,  rgba(6, 154, 212, 0.918) 0%, #7ee5ff 100%) !important;
     box-shadow: 0px 4px 38px -10px rgba(229, 116, 36, 0.45);
 }
 
@@ -782,7 +782,7 @@ header .dropdown-item:hover {
 
 .animated-scroll {
     border-radius: 55.07px;
-    border: #1dafb4 solid 2px;
+    border:  rgba(6, 154, 212, 0.918) solid 2px;
     /* border-image: linear-gradient(143deg, #E57424 0%, #FFB47E 100%) 1; */
     margin: auto;
     display: flex;
@@ -873,7 +873,7 @@ header .dropdown-item:hover {
 .swiper-rtl .swiper-button-prev:after,
 .swiper-button-prev:after,
 .swiper-rtl .swiper-button-next:after {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
 }
 
 .section-hr {
@@ -924,7 +924,7 @@ header .dropdown-item:hover {
     justify-content: space-around;
     gap: 24px;
     border-radius: 15px;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
 }
 
 .stats-data .stats-number {
@@ -1007,7 +1007,7 @@ News Section
     border-radius: 15px;
     margin-bottom: 2.813rem;
     background: #FFF;
-    border: #1dafb4 solid 2.5px;
+    border:  rgba(6, 154, 212, 0.918) solid 2.5px;
 }
 
 .news-card img {
@@ -1015,7 +1015,7 @@ News Section
     margin-bottom: 15px;
 }
 .news-card .card-title {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     height: 72px;
     font-size: 24px;
     font-family: var(--primaryfont);
@@ -1030,7 +1030,7 @@ News Section
 }
 
 .news-card .news-card-body p {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-size: 20px;
     font-family: var(--primaryfont);
     font-style: normal;
@@ -1057,12 +1057,12 @@ News Section
     color: #FFFFFF;
     gap: 10px;
     border-radius: 2px;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
 }
 
 .news-btn:hover {
-    color: #1dafb4;
-    outline: #1dafb4 solid 2px;
+    color:  rgba(6, 154, 212, 0.918);
+    outline:  rgba(6, 154, 212, 0.918) solid 2px;
     outline-offset: -2px;
 }
 
@@ -1082,7 +1082,7 @@ News Section
 
 .newsandmedia {
     width: 100%;
-    background: linear-gradient(0deg, #1dafb4 0%, #1dafb4 100%), url('../images/newsmedia.png'), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg,  rgba(6, 154, 212, 0.918) 0%,  rgba(6, 154, 212, 0.918) 100%), url('../images/newsmedia.png'), lightgray 50% / cover no-repeat;
     background-blend-mode: screen, normal;
 }
 
@@ -1090,7 +1090,7 @@ News Section
 .newsmedia-center {
     /* width: 100%; */
     border-radius: 1.875rem 0rem 0rem 1.875rem;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
     /* Blur */
     backdrop-filter: blur(50px);
 }
@@ -1133,7 +1133,7 @@ News Section
     padding: 0.9375rem 1.875rem;
     justify-content: flex-start;
     align-items: center;
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--secondaryfont);
     font-size: 1.25rem;
     font-style: normal;
@@ -1160,7 +1160,7 @@ News Section
     border-radius: 0.9375rem;
     background: #FFF;
     box-shadow: 0px 2px 16px 0px rgba(229, 116, 36, 0.30);
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--secondaryfont);
     font-size: 1.25rem;
     font-style: normal;
@@ -1178,7 +1178,7 @@ News Section
 }
 
 .publication-center .newsandmedia-heading {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--primaryfont);
     font-size: 2rem;
     font-style: normal;
@@ -1223,7 +1223,7 @@ News Section
     /* z-index: +999; */
     /* display: flex; */
     /* justify-content: end; */
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     text-align: right;
     font-family: var(--primaryfont);
     font-size: 1.375rem;
@@ -1251,7 +1251,7 @@ Footer Start
     justify-content: space-between;
     align-items: center;
     flex-shrink: 0;
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
 }
 
 .footer-tagline p {
@@ -1276,7 +1276,7 @@ Footer Start
 .subscribe-footer input {
     width: 350px;
     height: 50px;
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     flex-shrink: 0;
     border-radius: 10px;
     border: 2.5px solid #FFF;
@@ -1463,7 +1463,7 @@ Advisors Start
 }
 
 .advisor-name {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--primaryfont);
     font-size: 20px;
     font-style: normal;
@@ -1522,7 +1522,7 @@ About Page
     display: flex;
     width: 90%;
     flex-direction: column;
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--primaryfont);
     font-size: 40px;
     font-style: normal;
@@ -1587,7 +1587,7 @@ About Page
 }
 
 .mission-details .mission-details-left .subtitle {
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--primaryfont);
     width: 85%;
     font-size: 40px;
@@ -1615,7 +1615,7 @@ About Page
     align-items: flex-start;
     gap: 29px;
     border-radius: 15px;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
 }
 
 .mission-details .mission-stats .mission-stats-data {
@@ -1711,7 +1711,7 @@ Partners Page
 
 .partner-logo-box {
     border-radius: 30px;
-    border: solid 2px #1dafb4;
+    border: solid 2px  rgba(6, 154, 212, 0.918);
     padding: 60px 100px;
     margin-top: 60px;
     margin-bottom: 70px;
@@ -1784,13 +1784,13 @@ Contact Page
     height: 44px;
     flex-shrink: 0;
     border-radius: 10px;
-    border: 2px solid #1dafb4;
+    border: 2px solid  rgba(6, 154, 212, 0.918);
 }
 
 .contact-form .contact-element textarea {
     flex-shrink: 0;
     border-radius: 10px;
-    border: 2px solid #1dafb4;
+    border: 2px solid  rgba(6, 154, 212, 0.918);
 }
 
 .contact-submit {
@@ -1808,7 +1808,7 @@ Contact Page
     justify-content: center;
     gap: 8px;
     border-radius: 47px;
-    background: linear-gradient(143deg, #1dafb4 0%, #3abfd1 100%);
+    background: linear-gradient(143deg,  rgba(6, 154, 212, 0.918) 0%, #3abfd1 100%);
     box-shadow: 0px 4px 38px -10px rgba(229, 116, 36, 0.45);
 }
 
@@ -1905,7 +1905,7 @@ Product Page
     gap: 0.625rem;
     align-self: stretch;
     border-radius: 1.6875rem;
-    background: #1dafb4;
+    background:  rgba(6, 154, 212, 0.918);
     margin-bottom: 60px;
 }
 
@@ -1941,7 +1941,7 @@ Product Page
     border-radius: 2.9375rem;
     background: #FFF;
     box-shadow: 0px 4px 38px -10px rgba(229, 116, 36, 0.45);
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--secondaryfont);
     font-size: 1.5rem;
     font-style: normal;
@@ -1985,7 +1985,7 @@ Publications
 .publication-name h2 {
     width: 95%;
     flex-shrink: 0;
-    color: #1dafb4;
+    color:  rgba(6, 154, 212, 0.918);
     font-family: var(--primaryfont);
     font-size: 1.25rem;
     font-style: normal;
@@ -2089,7 +2089,7 @@ Publications
 }
 
 .submit-btn {
-    background-color: #1dafb4;
+    background-color:  rgba(6, 154, 212, 0.918);
     color: white;
     /* margin-top: 1rem; */
 }
